@@ -1,6 +1,10 @@
 Séance 2:
 ==
 
+
+//Nous n'avons pas réussi à mettre les photos prises pendant la séance. Elles sont disponibles dans "Rapports des séances/Images"   //
+
+
 Pour la séance 2 nous avons retravaillé la structure du bar; 
 
 L'idée d'origine était de recréer un socle pour notre bar avec un tube central épais, pour qu'il puisse soutenir les bouteilles.
