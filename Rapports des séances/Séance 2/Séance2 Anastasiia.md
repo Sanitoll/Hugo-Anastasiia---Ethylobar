@@ -4,7 +4,7 @@ Séance 2:
 Pour la séance 2 nous avons retravaillé la structure du bar; 
 
 L'idée d'origine était de recréer un socle pour notre bar avec un tube central épais, pour qu'il puisse soutenir les bouteilles.
-[Uploading IMG_4557.pdf…]()
+[IMG_4557.pdf](https://github.com/Sanitoll/Hugo-Anastasiia---Ethylobar/files/10367386/IMG_4557.pdf)
 
 On nous a conseillé de reprendre la base du bar circulaire déja crée (le socle avec le tube au centre ainsi que les tiges tenant les bouteilles). 
 
